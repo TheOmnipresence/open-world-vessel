@@ -1,6 +1,8 @@
-# GateWarp
+# Open World Vessel
 
-A mod to allow teleportation to network gates.
+This mod opens all shortcuts and doors.
 
 
-See the [project repository](https://github.com/TheOmnipresence/gate-warp) for setup details, releases, and issue reporting.
+
+See the [project repository](https://github.com/TheOmnipresence/open-world-vessel) for setup details, releases, and issue reporting.
+

@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 namespace = "InterestedSC2"
 name = "Open World Vessel"
 versionNumber = "1.0.0"
-description = "A mod that opens all shortcuts"
+description = "A mod that opens all shortcuts and doors"
 websiteUrl = "https://github.com/TheOmnipresence/open-world-vessel"
 containsNsfwContent = false
 [package.dependencies]
