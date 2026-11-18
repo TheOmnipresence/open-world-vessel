@@ -3,7 +3,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "InterestedSC2"
-name = "Open World Vessel"
+name = "OpenWorldVessel"
 versionNumber = "1.0.0"
 description = "A mod that opens all shortcuts and doors"
 websiteUrl = "https://github.com/TheOmnipresence/open-world-vessel"
