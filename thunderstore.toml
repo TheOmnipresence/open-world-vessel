@@ -1,0 +1,31 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "InterestedSC2"
+name = "Open World Vessel"
+versionNumber = "1.0.0"
+description = "A mod that opens all shortcuts"
+websiteUrl = "https://github.com/TheOmnipresence/open-world-vessel"
+containsNsfwContent = false
+[package.dependencies]
+MIOModding-ModdingAPI = "2.0.3"
+
+
+[build]
+icon = "./Sprites/icon.png"
+readme = "./THUNDERSTORE_README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./bin/OpenWorldVessel"
+target = ""
+
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mio-memories-in-orbit", ]
+[publish.categories]
+mio-memories-in-orbit = []
+
+
